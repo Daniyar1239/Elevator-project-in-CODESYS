@@ -1,5 +1,5 @@
 # Elevator-project-in-CODESYS
-An elevator project in five-storey building written in Ladder Diagram (LD) programming language
+## An elevator project in five-storey building written in Ladder Diagram (LD) programming language
 
 For executing this project, you need to install CODESYS software from https://www.codesys.com/.
 
